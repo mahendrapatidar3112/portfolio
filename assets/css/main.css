@@ -961,8 +961,9 @@ section,
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
-  border-radius: 50%;
+  border-radius: 0%;
   margin: 0 auto;
+  height: 110px;
 }
 
 .testimonials .testimonial-item h3 {
@@ -1026,7 +1027,7 @@ section,
 }
 
 .testimonials .swiper-pagination {
-  margin-top: 40px;
+  margin-top: 0px;
   position: relative;
 }
 
